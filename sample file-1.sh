@@ -1,1 +1,1 @@
-echo "Add some raw code to the branch"
+echo "add some raw code to the branch"
