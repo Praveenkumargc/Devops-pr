@@ -1,1 +1,1 @@
-echo "DevOps Assignment"
+echo "Devops Assignment"
